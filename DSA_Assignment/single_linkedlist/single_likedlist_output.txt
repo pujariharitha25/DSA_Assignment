@@ -1,0 +1,16 @@
+Enter number of students: 5
+101
+102
+103
+104
+105
+Initial list: 101 102 103 104 105
+Enter roll number to insert at beginning: 100
+100 101 102 103 104 105
+Enter roll number to insert at end: 106
+100 101 102 103 104 105 106
+Enter roll number to search: 103
+Roll number 103 found
+Enter roll number to delete: 102
+Roll number 102 deleted
+100 101 103 104 105 106 

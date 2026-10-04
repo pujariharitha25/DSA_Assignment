@@ -1,0 +1,13 @@
+Enter number of marks: 5
+Enter 5 marks:
+50
+20
+40
+10
+30
+After pass 1: 20 50 40 10 30
+After pass 2: 20 40 50 10 30
+After pass 3: 10 20 40 50 30
+After pass 4: 10 20 30 40 50
+Final sorted list: 10 20 30 40 50
+Total element shifts: 7

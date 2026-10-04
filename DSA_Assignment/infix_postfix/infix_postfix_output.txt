@@ -1,0 +1,2 @@
+Enter infix expression: (A+B)*(C-D)
+Postfix expression: AB+CD-*

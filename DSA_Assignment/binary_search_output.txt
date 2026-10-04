@@ -1,0 +1,10 @@
+Enter number of employee IDs: 5
+Enter 5 employee IDs in ascending order:
+10
+20
+30
+40
+50
+Enter employee ID to search: 30
+Employee ID 30 found at position 3
+Number of comparisons: 1S
